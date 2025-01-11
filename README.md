@@ -2,6 +2,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/807daa76-d335-40a6-8d27-00f3e6833ecc) 
+
+
 **1 Objectif** 
 
 Health Care Focus: Developed a machine learning algorithm to predict diabetes based on patient data.
