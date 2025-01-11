@@ -18,7 +18,9 @@ Machine learning-driven diabetes prediction using logistic regression.
 Interactive web interface with Tailwind CSS for modern and responsive design.
 Database connectivity with SQLite for efficient data management.
 
-![image](https://github.com/user-attachments/assets/0d0f570d-ccfb-4b01-ae9c-29cccaef5fae)**3 Technical Stack**
+![image](https://github.com/user-attachments/assets/0d0f570d-ccfb-4b01-ae9c-29cccaef5fae) 
+
+**3 Technical Stack**
 
 IDE/Tools: Jupyter Notebook, PyCharm
 Backend Framework: Django
