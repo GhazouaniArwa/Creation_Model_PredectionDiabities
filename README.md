@@ -36,7 +36,9 @@ size Data : CSV with 768 rows
  Features (Input) : numric Data
  Metric Test : Accurancy Validation : 80% Result
 
- ![image](https://github.com/user-attachments/assets/2a17c6d4-02d3-4590-a29d-0acc6a539322)**4 Realization Project Machine Learning: Health Website - Diabetes Management System**
+ ![image](https://github.com/user-attachments/assets/2a17c6d4-02d3-4590-a29d-0acc6a539322) 
+ 
+ **4 Realization Project Machine Learning: Health Website - Diabetes Management System**
 
  **Part Machine Learning**
  
